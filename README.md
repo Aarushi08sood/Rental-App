@@ -3,9 +3,7 @@
 > A web application to help you find your next rental property.
 
 
-The `_theme_files` folder contains the pure HTML files with Tailwind classes.
 
-<img src="/public/images/screen.jpg" />
 
 ## Features
 
